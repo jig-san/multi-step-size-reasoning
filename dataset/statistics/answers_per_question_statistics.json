@@ -1,0 +1,1448 @@
+{
+    "test": {
+        "exactly two red triangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one red triangle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more red triangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two red triangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one red triangle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more red triangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two blue triangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one blue triangle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more blue triangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two blue triangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one blue triangle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more blue triangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two yellow triangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one yellow triangle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more yellow triangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two yellow triangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one yellow triangle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more yellow triangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two green triangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one green triangle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more green triangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two green triangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one green triangle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more green triangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two white triangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one white triangle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more white triangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two white triangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one white triangle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more white triangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two red circles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one red circle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more red circles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two red circles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one red circle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more red circles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two blue circles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one blue circle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more blue circles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two blue circles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one blue circle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more blue circles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two yellow circles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one yellow circle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more yellow circles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two yellow circles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one yellow circle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more yellow circles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two green circles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one green circle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more green circles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two green circles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one green circle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more green circles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two white circles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one white circle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more white circles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two white circles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one white circle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more white circles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two red squares that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one red square that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more red squares that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two red squares that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one red square that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more red squares that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two blue squares that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one blue square that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more blue squares that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two blue squares that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one blue square that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more blue squares that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two yellow squares that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one yellow square that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more yellow squares that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two yellow squares that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one yellow square that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more yellow squares that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two green squares that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one green square that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more green squares that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two green squares that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one green square that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more green squares that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two white squares that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one white square that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more white squares that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two white squares that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one white square that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more white squares that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two red rectangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one red rectangle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more red rectangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two red rectangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one red rectangle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more red rectangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two blue rectangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one blue rectangle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more blue rectangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two blue rectangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one blue rectangle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more blue rectangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two yellow rectangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one yellow rectangle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more yellow rectangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two yellow rectangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one yellow rectangle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more yellow rectangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two green rectangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one green rectangle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more green rectangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two green rectangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one green rectangle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more green rectangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two white rectangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one white rectangle that is a big ": {
+            "true": 30,
+            "false": 30
+        },
+        "more white rectangles that are big ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly two white rectangles that are small ": {
+            "true": 30,
+            "false": 30
+        },
+        "exactly one white rectangle that is a small ": {
+            "true": 30,
+            "false": 30
+        },
+        "more white rectangles that are small ": {
+            "true": 30,
+            "false": 30
+        }
+    },
+    "val": {
+        "exactly two red triangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one red triangle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more red triangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two red triangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one red triangle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more red triangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two blue triangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one blue triangle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more blue triangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two blue triangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one blue triangle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more blue triangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two yellow triangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one yellow triangle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more yellow triangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two yellow triangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one yellow triangle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more yellow triangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two green triangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one green triangle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more green triangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two green triangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one green triangle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more green triangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two white triangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one white triangle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more white triangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two white triangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one white triangle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more white triangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two red circles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one red circle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more red circles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two red circles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one red circle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more red circles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two blue circles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one blue circle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more blue circles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two blue circles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one blue circle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more blue circles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two yellow circles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one yellow circle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more yellow circles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two yellow circles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one yellow circle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more yellow circles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two green circles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one green circle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more green circles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two green circles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one green circle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more green circles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two white circles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one white circle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more white circles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two white circles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one white circle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more white circles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two red squares that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one red square that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more red squares that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two red squares that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one red square that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more red squares that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two blue squares that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one blue square that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more blue squares that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two blue squares that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one blue square that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more blue squares that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two yellow squares that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one yellow square that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more yellow squares that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two yellow squares that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one yellow square that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more yellow squares that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two green squares that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one green square that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more green squares that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two green squares that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one green square that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more green squares that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two white squares that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one white square that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more white squares that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two white squares that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one white square that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more white squares that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two red rectangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one red rectangle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more red rectangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two red rectangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one red rectangle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more red rectangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two blue rectangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one blue rectangle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more blue rectangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two blue rectangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one blue rectangle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more blue rectangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two yellow rectangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one yellow rectangle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more yellow rectangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two yellow rectangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one yellow rectangle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more yellow rectangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two green rectangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one green rectangle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more green rectangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two green rectangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one green rectangle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more green rectangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two white rectangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one white rectangle that is a big ": {
+            "true": 29,
+            "false": 29
+        },
+        "more white rectangles that are big ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly two white rectangles that are small ": {
+            "true": 29,
+            "false": 29
+        },
+        "exactly one white rectangle that is a small ": {
+            "true": 29,
+            "false": 29
+        },
+        "more white rectangles that are small ": {
+            "true": 29,
+            "false": 29
+        }
+    },
+    "train": {
+        "exactly two red triangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one red triangle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more red triangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two red triangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one red triangle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more red triangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two blue triangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one blue triangle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more blue triangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two blue triangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one blue triangle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more blue triangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two yellow triangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one yellow triangle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more yellow triangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two yellow triangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one yellow triangle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more yellow triangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two green triangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one green triangle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more green triangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two green triangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one green triangle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more green triangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two white triangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one white triangle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more white triangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two white triangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one white triangle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more white triangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two red circles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one red circle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more red circles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two red circles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one red circle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more red circles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two blue circles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one blue circle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more blue circles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two blue circles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one blue circle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more blue circles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two yellow circles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one yellow circle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more yellow circles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two yellow circles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one yellow circle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more yellow circles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two green circles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one green circle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more green circles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two green circles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one green circle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more green circles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two white circles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one white circle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more white circles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two white circles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one white circle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more white circles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two red squares that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one red square that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more red squares that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two red squares that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one red square that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more red squares that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two blue squares that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one blue square that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more blue squares that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two blue squares that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one blue square that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more blue squares that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two yellow squares that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one yellow square that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more yellow squares that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two yellow squares that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one yellow square that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more yellow squares that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two green squares that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one green square that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more green squares that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two green squares that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one green square that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more green squares that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two white squares that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one white square that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more white squares that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two white squares that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one white square that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more white squares that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two red rectangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one red rectangle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more red rectangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two red rectangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one red rectangle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more red rectangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two blue rectangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one blue rectangle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more blue rectangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two blue rectangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one blue rectangle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more blue rectangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two yellow rectangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one yellow rectangle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more yellow rectangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two yellow rectangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one yellow rectangle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more yellow rectangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two green rectangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one green rectangle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more green rectangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two green rectangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one green rectangle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more green rectangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two white rectangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one white rectangle that is a big ": {
+            "true": 255,
+            "false": 255
+        },
+        "more white rectangles that are big ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly two white rectangles that are small ": {
+            "true": 255,
+            "false": 255
+        },
+        "exactly one white rectangle that is a small ": {
+            "true": 255,
+            "false": 255
+        },
+        "more white rectangles that are small ": {
+            "true": 255,
+            "false": 255
+        }
+    }
+}
